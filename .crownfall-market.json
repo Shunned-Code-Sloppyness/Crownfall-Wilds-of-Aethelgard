@@ -1,0 +1,238 @@
+{
+  "listings": [
+    {
+      "id": "mkt_seed_0_mwxel36v",
+      "sellerId": "ai_aldric",
+      "sellerName": "Aldric Ironforge",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_2_vhjb",
+        "templateId": "ore_iron",
+        "qty": 6,
+        "rarity": "uncommon"
+      },
+      "price": 301,
+      "createdAt": 1795688527207
+    },
+    {
+      "id": "mkt_seed_1_mwxel36v",
+      "sellerId": "ai_lyra",
+      "sellerName": "Lyra Swiftbow",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_3_qp98",
+        "templateId": "bar_iron",
+        "qty": 4,
+        "rarity": "uncommon"
+      },
+      "price": 517,
+      "createdAt": 1795688482207
+    },
+    {
+      "id": "mkt_seed_2_mwxel36v",
+      "sellerId": "ai_seraphina",
+      "sellerName": "Seraphina Dawn",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_4_8hn9",
+        "templateId": "bar_bronze",
+        "qty": 5,
+        "rarity": "common"
+      },
+      "price": 365,
+      "createdAt": 1795688437207
+    },
+    {
+      "id": "mkt_seed_3_mwxel36v",
+      "sellerId": "ai_garrick",
+      "sellerName": "Garrick Wolfbane",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_5_i5h6",
+        "templateId": "plank_oak",
+        "qty": 5,
+        "rarity": "common"
+      },
+      "price": 327,
+      "createdAt": 1795688392207
+    },
+    {
+      "id": "mkt_seed_4_mwxel36v",
+      "sellerId": "ai_talia",
+      "sellerName": "Talia Sunblade",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_6_yi02",
+        "templateId": "leather_thin",
+        "qty": 5,
+        "rarity": "common"
+      },
+      "price": 351,
+      "createdAt": 1795688347207
+    },
+    {
+      "id": "mkt_seed_5_mwxel36v",
+      "sellerId": "ai_aldric",
+      "sellerName": "Aldric Ironforge",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_7_sxw4",
+        "templateId": "cloth_skyweave",
+        "qty": 4,
+        "rarity": "uncommon"
+      },
+      "price": 489,
+      "createdAt": 1795688302207
+    },
+    {
+      "id": "mkt_seed_6_mwxel36v",
+      "sellerId": "ai_lyra",
+      "sellerName": "Lyra Swiftbow",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_8_vr1l",
+        "templateId": "tool_pickaxe_t2",
+        "qty": 1,
+        "rarity": "common",
+        "durability": 100
+      },
+      "price": 117,
+      "createdAt": 1795688257207
+    },
+    {
+      "id": "mkt_seed_7_mwxel36v",
+      "sellerId": "ai_seraphina",
+      "sellerName": "Seraphina Dawn",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_9_jpl5",
+        "templateId": "tool_pickaxe_t3",
+        "qty": 1,
+        "rarity": "uncommon",
+        "durability": 100
+      },
+      "price": 253,
+      "createdAt": 1795688212207
+    },
+    {
+      "id": "mkt_seed_8_mwxel36v",
+      "sellerId": "ai_garrick",
+      "sellerName": "Garrick Wolfbane",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_10_49jf",
+        "templateId": "tool_axe_t2",
+        "qty": 1,
+        "rarity": "common",
+        "durability": 100
+      },
+      "price": 128,
+      "createdAt": 1795688167207
+    },
+    {
+      "id": "mkt_seed_9_mwxel36v",
+      "sellerId": "ai_talia",
+      "sellerName": "Talia Sunblade",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_11_wnjx",
+        "templateId": "tool_knife_t2",
+        "qty": 1,
+        "rarity": "common",
+        "durability": 100
+      },
+      "price": 110,
+      "createdAt": 1795688122207
+    },
+    {
+      "id": "mkt_seed_10_mwxel36v",
+      "sellerId": "ai_aldric",
+      "sellerName": "Aldric Ironforge",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_12_7jtb",
+        "templateId": "tool_rod_t2",
+        "qty": 1,
+        "rarity": "common",
+        "durability": 100
+      },
+      "price": 114,
+      "createdAt": 1795688077207
+    },
+    {
+      "id": "mkt_seed_11_mwxel36v",
+      "sellerId": "ai_lyra",
+      "sellerName": "Lyra Swiftbow",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_13_53xk",
+        "templateId": "wpn_greataxe_t2",
+        "qty": 1,
+        "rarity": "uncommon",
+        "durability": 100
+      },
+      "price": 230,
+      "createdAt": 1795688032207
+    },
+    {
+      "id": "mkt_seed_12_mwxel36v",
+      "sellerId": "ai_seraphina",
+      "sellerName": "Seraphina Dawn",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_14_v91q",
+        "templateId": "wpn_hammer_t3",
+        "qty": 1,
+        "rarity": "rare",
+        "durability": 100
+      },
+      "price": 466,
+      "createdAt": 1795687987207
+    },
+    {
+      "id": "mkt_seed_13_mwxel36v",
+      "sellerId": "ai_garrick",
+      "sellerName": "Garrick Wolfbane",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_15_qjjl",
+        "templateId": "wpn_bow_t3",
+        "qty": 1,
+        "rarity": "uncommon",
+        "durability": 100
+      },
+      "price": 506,
+      "createdAt": 1795687942207
+    },
+    {
+      "id": "mkt_seed_14_mwxel36v",
+      "sellerId": "ai_talia",
+      "sellerName": "Talia Sunblade",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_16_mj67",
+        "templateId": "wpn_frost_staff_t2",
+        "qty": 1,
+        "rarity": "uncommon",
+        "durability": 100
+      },
+      "price": 233,
+      "createdAt": 1795687897207
+    },
+    {
+      "id": "mkt_seed_15_mwxel36v",
+      "sellerId": "ai_aldric",
+      "sellerName": "Aldric Ironforge",
+      "isAiSeller": true,
+      "item": {
+        "uid": "itm_mwxel36v_17_92om",
+        "templateId": "wpn_nature_staff_t3",
+        "qty": 1,
+        "rarity": "rare",
+        "durability": 100
+      },
+      "price": 448,
+      "createdAt": 1795687852207
+    }
+  ]
+}

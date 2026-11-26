@@ -1,0 +1,6 @@
+{
+  "name": "Crownfall: Wilds of Aethelgard",
+  "description": "A stylized hand-painted medieval fantasy action-sandbox RPG with active dodge-roll, parry counters, skill-shot combat, gear-defined classes, tiered gathering and refining, Albion-style fishing, skinnable wildlife, mounts, roaming world bosses, and a live hybrid server market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
